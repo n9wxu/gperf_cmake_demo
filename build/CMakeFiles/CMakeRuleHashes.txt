@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+77d705a37b73f3f53cd74dadd41c8940 commands.c

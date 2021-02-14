@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joejulicher/gperf-cmake/command_list.h
+
+/Users/joejulicher/gperf-cmake/command_struct.h
+command_list.h
+/Users/joejulicher/gperf-cmake/command_list.h
+stdlib.h
+-
+
+/Users/joejulicher/gperf-cmake/main.c
+command_struct.h
+/Users/joejulicher/gperf-cmake/command_struct.h
+stdio.h
+-
+string.h
+-
+

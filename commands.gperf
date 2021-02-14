@@ -1,0 +1,10 @@
+%includes
+%{
+#include "../command_struct.h"
+%}
+struct CommandOption
+%%
+foo, FOO
+bar, BAR
+thing1, THING1
+thing2, THING2
